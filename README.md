@@ -2,8 +2,9 @@
 
 ### 🚀 2022 Goals: Contribute more to Open Source projects
 
-![Cryptee's GitHub stats](https://github-readme-stats.vercel.app/api?username=crypte-1&show_icons=true&theme=dracula) 
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=crypte-1&show_icons=true&theme=dracula) 
  
+
 
  
 ### 👨🏻‍💻 About Me
