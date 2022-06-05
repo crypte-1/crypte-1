@@ -1,4 +1,4 @@
-### **Heyya!! I'm Cryptee** 👋
+### **Heyya!! I'm Harshini** 👋
 
 ### 🚀 2022 Goals: Contribute more to Open Source projects
 
