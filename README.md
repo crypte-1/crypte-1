@@ -14,5 +14,5 @@
 
 ## 🤝🏻 Want to Connect?
 
-<a href = "https://twitter.com/h202529"> <img src= "icons/twitter.PNG" alt = "Twitter"/></a>
+<a href = "https://twitter.com/h202529"> <img src= "" alt = "Twitter"/></a>
  
