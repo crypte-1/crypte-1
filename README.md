@@ -9,7 +9,6 @@
 🎓 I'm a strong web3 believer.\
 💡 Interested in working alongside like minded people enthusiastic about web3 or developing cutting edge tech.\
 🌱 I'm currently working on web3 skills by implementing projects .\
-💬 Feel free to reach out to me for some interesting discussion about Web3.\
 ✉️ You can reach out to me [Here](https://twitter.com/h202529)
 
 ## 🤝🏻 Want to Connect?
