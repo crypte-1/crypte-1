@@ -1,4 +1,11 @@
 ### **Heyya!! I'm Harshini** 👋
+<h3 align="center">A passionate web3 developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crypte-1&label=Profile%20views&color=0e75b6&style=flat" alt="crypte-1" /> </p>
+
+<p align="left"> <a href="https://twitter.com/h202529" target="blank"><img src="https://img.shields.io/twitter/follow/h202529?logo=twitter&style=for-the-badge" alt="h202529" /></a> </p>
+
+
 
 ### 🚀 2022 Goals: Contribute more to Open Source projects
 
