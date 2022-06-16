@@ -1,6 +1,6 @@
 ### **Heyya!! I'm Harshini** 👋
 <h3 align="center">A passionate web3 developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://www.sygna.io/wp-content/uploads/2019/12/blockchain-handshake.jpg"
+<img align="right" alt="Coding" width="400" src="https://www.sygna.io/wp-content/uploads/2019/12/blockchain-handshake.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crypte-1&label=Profile%20views&color=0e75b6&style=flat" alt="crypte-1" /> </p>
 
