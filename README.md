@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Frontend Skills and Exploring Unity**
 
-- 🌱 I’m currently learning **Solidity,React,Next**
+- 🌱 I’m currently learning **Unity,Solidity,React,Next**
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
