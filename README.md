@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crypte-1&label=Profile%20views&color=0e75b6&style=flat" alt="crypte-1" /> </p>
 
-- 🔭 I’m currently working on **Frontend Skills and Exploring Unity**
+- 🔭 I’m currently working on **Exploring Unity**
 
-- 🌱 I’m currently learning **Unity 3D,Solidity,React,Next**
+- 🌱 I’m currently learning **Unity 3D,Solidity,React**
 
 - 👯 I’m looking to collaborate on **web3 projects**
 
